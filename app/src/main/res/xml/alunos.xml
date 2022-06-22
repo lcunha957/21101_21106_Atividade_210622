@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alunos xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item titulo = "Tales"/>
+    <item titulo = "Lunara"/>
+    <item titulo = "ana mais de vagar"/>
+    <item titulo = "Leonardo"/>
+    <item titulo = "Zanon"/>
+    <item titulo = "Dani"/>
+    <item titulo = "Pedro"/>
+    <item titulo = "Caua"/>
+    <item titulo = "Livia"/>
+</alunos>
